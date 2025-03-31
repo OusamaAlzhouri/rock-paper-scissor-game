@@ -38,4 +38,4 @@ A simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The g
 
 You can also try out the game by visiting the live version hosted on GitHub Pages:
 
-[Live Demo](https://ousamaalzhouri.github.io/rock-paper-scissors-game)
+[Live Demo](https://ousamaalzhouri.github.io/rock-paper-scissor-game/)
